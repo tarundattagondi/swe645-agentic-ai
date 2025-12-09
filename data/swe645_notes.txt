@@ -1,0 +1,7 @@
+AI agents are systems that can perceive their environment, reason about it, and take actions to achieve goals.
+Traditional AI systems are often single-shot predictors, for example a classifier that outputs a label.
+
+Business Continuity Planning (BCP) focuses on keeping critical operations running during a disruption.
+Disaster Recovery (DR) focuses on restoring IT systems and data after an incident.
+Incident Response (IR) is about detecting, responding to, and containing security incidents.
+
